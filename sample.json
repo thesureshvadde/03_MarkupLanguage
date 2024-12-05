@@ -1,0 +1,50 @@
+{
+    "clouds": [
+        {
+            "name": "AWS",
+            "Est": 2006,
+            "ceo": "Andy Jessy",
+            "services": [
+                "ec2",
+                "RDS",
+                "IAM",
+                "S3"
+            ]
+        },
+        {
+            "name": "Azure",
+            "Est": 2010,
+            "ceo": "Satya",
+            "services": [
+                "vm",
+                "Azure Sql",
+                "Azure AD",
+                "Storage accounts"
+            ]
+        }
+    ]
+}
+
+
+The commonly used symbols in Json:
+
+{} - Json code should always start with open bracket { and ends with closed bracket }
+
+"" - Key and value should be in quotations. No need to give qotaions gor the value if it is a number/bolean.
+
+:  - Key and value are seperated by column
+
+,  - Multiple key value pairs should be seperated with comma.
+
+[] - List should be in this brackets
+
+
+Note:
+To check Json syntax: jsonformatter.org
+
+
+
+
+
+
+

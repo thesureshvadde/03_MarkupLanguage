@@ -1,0 +1,19 @@
+<Person>
+    <name>suresh</name>
+    <DOB>Aug-2</DOB>
+    <Address>
+        <Home>
+           <address-line1>chandrugonda<address-line1>
+           <address-line2>nekkonda<address-line2>
+           <street>templeStreet</street>
+           <city>warangal</city>
+        </Home>
+        <Office>
+           <address-line1>infosys<address-line1>
+           <address-line2>anojiguda<address-line2>
+           <street>singapurtownship</street>
+           <city>hyderabad</city>
+        </Office>
+    </Address>
+
+

@@ -1,0 +1,20 @@
+---
+- clouds:
+    - name: "AWS"
+      estd: 2006
+      ceo: "Andy Jessy"
+      services:
+        - "Ec2"
+        - "RDS"
+        - "IAM"
+        - "S3"
+    - name: "AWS"
+      estd: 2006
+      ceo: "Andy Jessy"
+      services:
+        - "vm"
+        - "Azure Sql"
+        - "Azure AD"
+        - "Storage accounts"
+
+No need to give qotes for key but value should be in "qotes"
